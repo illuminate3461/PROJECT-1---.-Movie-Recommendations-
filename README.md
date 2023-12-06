@@ -4,3 +4,4 @@ A recommendation system is a type of machine learning that uses data to help nar
 Some movie recommendation systems use a content-based filtering method. This method involves understanding what kind of content or movie most users watched in a particular genre. It then recommends these movies to the audience.
 The recommendation system analyzes the past preferences of the user concerned, and then it uses this information to try to find similar movies. This information is available in the database (e.g., lead actors, director, genre, etc.). After that, the system provides movie recommendations for the user.
 Data Link Kaggle - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
+Google Drive Link - https://drive.google.com/drive/folders/1x6ig1Y0Lv0okl7lmNc7fYm0R4yqkYMLm
